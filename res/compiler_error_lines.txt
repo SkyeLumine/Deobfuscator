@@ -1,0 +1,302 @@
+src\client.java:42: error: <identifier> expected
+   static int do;
+             ^
+src\client.java:62: error: <identifier> expected
+   static boolean if;
+                 ^
+src\client.java:3385: error: <identifier> expected
+                                                   this.if(159947698);
+                                                        ^
+src\client.java:3385: error: not a statement
+                                                   this.if(159947698);
+                                                       ^
+src\client.java:3385: error: not a statement
+                                                   this.if(159947698);
+                                                          ^
+src\client.java:3938: error: illegal start of expression
+         if(if) {
+            ^
+src\client.java:3938: error: illegal start of expression
+         if(if) {
+              ^
+src\client.java:3938: error: ';' expected
+         if(if) {
+               ^
+src\client.java:3901: error: 'try' without 'catch', 'finally' or resource declarations
+      try {
+      ^
+src\client.java:4095: error: illegal start of type
+      } catch (RuntimeException var12) {
+        ^
+src\client.java:4100: error: class, interface, or enum expected
+   static final void od(int var0, int var1, int var2, int var3, boolean var4) {
+                ^
+src\client.java:4103: error: class, interface, or enum expected
+      }
+      ^
+src\client.java:4107: error: class, interface, or enum expected
+      }
+      ^
+src\client.java:4110: error: class, interface, or enum expected
+      if(var5 < 0) {
+      ^
+src\client.java:4112: error: class, interface, or enum expected
+      } else if(var5 > 100) {
+      ^
+src\client.java:4114: error: class, interface, or enum expected
+      }
+      ^
+src\client.java:4117: error: class, interface, or enum expected
+      int var7 = var3 * var6 * 512 / (334 * var2);
+      ^
+src\client.java:4118: error: class, interface, or enum expected
+      int var8;
+      ^
+src\client.java:4119: error: class, interface, or enum expected
+      int var9;
+      ^
+src\client.java:4120: error: class, interface, or enum expected
+      short var14;
+      ^
+src\client.java:4121: error: class, interface, or enum expected
+      if(var7 < rl) {
+      ^
+src\client.java:4123: error: class, interface, or enum expected
+         var6 = var14 * var2 * 334 / (512 * var3);
+         ^
+src\client.java:4124: error: class, interface, or enum expected
+         if(var6 > ru) {
+         ^
+src\client.java:4126: error: class, interface, or enum expected
+            var8 = var6 * var3 * 512 / (334 * var14);
+            ^
+src\client.java:4127: error: class, interface, or enum expected
+            var9 = (var2 - var8) / 2;
+            ^
+src\client.java:4128: error: class, interface, or enum expected
+            if(var4) {
+            ^
+src\client.java:4130: error: class, interface, or enum expected
+               ll.db(var0, var1, var9, var3, -16777216);
+               ^
+src\client.java:4131: error: class, interface, or enum expected
+               ll.db(var2 + var0 - var9, var1, var9, var3, -16777216);
+               ^
+src\client.java:4132: error: class, interface, or enum expected
+            }
+            ^
+src\client.java:4135: error: class, interface, or enum expected
+            var2 -= var9 * 2;
+            ^
+src\client.java:4136: error: class, interface, or enum expected
+         }
+         ^
+src\client.java:4139: error: class, interface, or enum expected
+         var6 = 334 * var2 * var14 / (var3 * 512);
+         ^
+src\client.java:4140: error: class, interface, or enum expected
+         if(var6 < rr) {
+         ^
+src\client.java:4142: error: class, interface, or enum expected
+            var8 = var14 * var2 * 334 / (var6 * 512);
+            ^
+src\client.java:4143: error: class, interface, or enum expected
+            var9 = (var3 - var8) / 2;
+            ^
+src\client.java:4144: error: class, interface, or enum expected
+            if(var4) {
+            ^
+src\client.java:4146: error: class, interface, or enum expected
+               ll.db(var0, var1, var2, var9, -16777216);
+               ^
+src\client.java:4147: error: class, interface, or enum expected
+               ll.db(var0, var1 + var3 - var9, var2, var9, -16777216);
+               ^
+src\client.java:4148: error: class, interface, or enum expected
+            }
+            ^
+src\client.java:4151: error: class, interface, or enum expected
+            var3 -= 2 * var9;
+            ^
+src\client.java:4152: error: class, interface, or enum expected
+         }
+         ^
+src\client.java:4156: error: class, interface, or enum expected
+      rd = -968070901 * (var3 * var6 * var8 / 85504 << 1);
+      ^
+src\client.java:4157: error: class, interface, or enum expected
+      if(rk * -1187209899 != var2 || rg * -1659802487 != var3) {
+      ^
+src\client.java:4160: error: class, interface, or enum expected
+         for(int var10 = 0; var10 < 9; ++var10) {
+         ^
+src\client.java:4160: error: class, interface, or enum expected
+         for(int var10 = 0; var10 < 9; ++var10) {
+                            ^
+src\client.java:4160: error: class, interface, or enum expected
+         for(int var10 = 0; var10 < 9; ++var10) {
+                                       ^
+src\client.java:4162: error: class, interface, or enum expected
+            int var12 = var11 * 3 + 600;
+            ^
+src\client.java:4163: error: class, interface, or enum expected
+            int var13 = dw.g[var11];
+            ^
+src\client.java:4164: error: class, interface, or enum expected
+            var15[var10] = var13 * var12 >> 16;
+            ^
+src\client.java:4165: error: class, interface, or enum expected
+         }
+         ^
+src\client.java:4168: error: class, interface, or enum expected
+      }
+      ^
+src\client.java:4171: error: class, interface, or enum expected
+      ra = var1 * -1181296277;
+      ^
+src\client.java:4172: error: class, interface, or enum expected
+      rk = 169768957 * var2;
+      ^
+src\client.java:4173: error: class, interface, or enum expected
+      rg = -328611399 * var3;
+      ^
+src\client.java:4174: error: class, interface, or enum expected
+   }
+   ^
+src\client.java:4176: error: class, interface, or enum expected
+   final void hb(short var1) {
+         ^
+src\client.java:4180: error: class, interface, or enum expected
+         int var3;
+         ^
+src\client.java:4181: error: class, interface, or enum expected
+         int var6;
+         ^
+src\client.java:4182: error: class, interface, or enum expected
+         while(!var2) {
+         ^
+src\client.java:4185: error: class, interface, or enum expected
+            }
+            ^
+src\client.java:4189: error: class, interface, or enum expected
+            for(var3 = 0; var3 < ku * 1785579525 - 1; ++var3) {
+            ^
+src\client.java:4189: error: class, interface, or enum expected
+            for(var3 = 0; var3 < ku * 1785579525 - 1; ++var3) {
+                          ^
+src\client.java:4189: error: class, interface, or enum expected
+            for(var3 = 0; var3 < ku * 1785579525 - 1; ++var3) {
+                                                      ^
+src\client.java:4192: error: class, interface, or enum expected
+               }
+               ^
+src\client.java:4197: error: class, interface, or enum expected
+                  }
+                  ^
+src\client.java:4200: error: class, interface, or enum expected
+                  lb[var3] = lb[var3 + 1];
+                  ^
+src\client.java:4201: error: class, interface, or enum expected
+                  lb[var3 + 1] = var4;
+                  ^
+src\client.java:4202: error: class, interface, or enum expected
+                  String var5 = lw[var3];
+                  ^
+src\client.java:4203: error: class, interface, or enum expected
+                  lw[var3] = lw[1 + var3];
+                  ^
+src\client.java:4204: error: class, interface, or enum expected
+                  lw[1 + var3] = var5;
+                  ^
+src\client.java:4205: error: class, interface, or enum expected
+                  var6 = kl[var3];
+                  ^
+src\client.java:4206: error: class, interface, or enum expected
+                  kl[var3] = kl[1 + var3];
+                  ^
+src\client.java:4207: error: class, interface, or enum expected
+                  kl[var3 + 1] = var6;
+                  ^
+src\client.java:4208: error: class, interface, or enum expected
+                  var6 = kq[var3];
+                  ^
+src\client.java:4209: error: class, interface, or enum expected
+                  kq[var3] = kq[1 + var3];
+                  ^
+src\client.java:4210: error: class, interface, or enum expected
+                  kq[var3 + 1] = var6;
+                  ^
+src\client.java:4211: error: class, interface, or enum expected
+                  var6 = ks[var3];
+                  ^
+src\client.java:4212: error: class, interface, or enum expected
+                  ks[var3] = ks[1 + var3];
+                  ^
+src\client.java:4213: error: class, interface, or enum expected
+                  ks[1 + var3] = var6;
+                  ^
+src\client.java:4214: error: class, interface, or enum expected
+                  var6 = le[var3];
+                  ^
+src\client.java:4215: error: class, interface, or enum expected
+                  le[var3] = le[1 + var3];
+                  ^
+src\client.java:4216: error: class, interface, or enum expected
+                  le[1 + var3] = var6;
+                  ^
+src\client.java:4217: error: class, interface, or enum expected
+                  boolean var7 = lv[var3];
+                  ^
+src\client.java:4218: error: class, interface, or enum expected
+                  lv[var3] = lv[1 + var3];
+                  ^
+src\client.java:4219: error: class, interface, or enum expected
+                  lv[var3 + 1] = var7;
+                  ^
+src\client.java:4220: error: class, interface, or enum expected
+                  var2 = false;
+                  ^
+src\client.java:4221: error: class, interface, or enum expected
+               }
+               ^
+src\client.java:4229: error: class, interface, or enum expected
+               }
+               ^
+src\client.java:4232: error: class, interface, or enum expected
+               label453: {
+               ^
+src\client.java:4234: error: class, interface, or enum expected
+                  int var9;
+                  ^
+src\client.java:4235: error: class, interface, or enum expected
+                  int var17;
+                  ^
+src\client.java:4236: error: class, interface, or enum expected
+                  int var20;
+                  ^
+src\client.java:4237: error: class, interface, or enum expected
+                  if(kc) {
+                  ^
+src\client.java:4242: error: class, interface, or enum expected
+                           }
+                           ^
+src\client.java:4247: error: class, interface, or enum expected
+                              }
+                              ^
+src\client.java:4251: error: class, interface, or enum expected
+                              }
+                              ^
+src\client.java:4255: error: class, interface, or enum expected
+                              }
+                              ^
+src\client.java:4259: error: class, interface, or enum expected
+                           var17 = ai.d * -1031093561;
+                           ^
+src\client.java:4260: error: class, interface, or enum expected
+                           if(var3 >= 703899293 * q.kb - 10) {
+                           ^
+src\client.java:4263: error: class, interface, or enum expected
+                              }
+                              ^
+100 errors
+Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF8
